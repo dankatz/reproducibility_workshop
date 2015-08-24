@@ -31,3 +31,4 @@ install.packages("devtools")
 ```{r session info, eval = TRUE, echo=FALSE}
 devtools::session_info()
 ```
+getwd()
